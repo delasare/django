@@ -135,7 +135,7 @@ def application(environ, start_response):
     <div class="brand-text"><strong>Open</strong>Shift</div>
   </a>
   <h1>
-    Welcome delasare OpenShift
+    Welcome d OpenShift
   </h1>
   <p>
     This is a sample WSGI application running on Python 2.7
